@@ -1,0 +1,16 @@
+{
+  "name": "tcp-client",
+  "version": "0.1.0",
+  "description": "tcp clent, 用于测试tcp server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tcp",
+    "client",
+    "测试"
+  ],
+  "author": "diguangzhao",
+  "license": "ISC"
+}
